@@ -1,13 +1,3 @@
-### Olá! Eu sou o Danilo Oliveira.
-
-- 👯 Gostaria de colaborar como desenvolvedor Front-End
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=danilolliveira&show_icons=true&theme=dracula&count_private=true)
-
-
-  
-  ////////////////////////////////////////////////////////////////////////////////////////////////
-  
   <div>
   
   <h1 align="center">

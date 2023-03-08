@@ -41,7 +41,9 @@
   <div align="center">
     
    ## Último projeto no qual eu Trabalhei:
-    
+      <p>
+        Nesse projeto fui desafiado a tornar uma página web funcional, até então feita apenas com HTML e CSS. Minha primeira tarefa como desenvolvedor responsável foi criar uma aplicação para uma simulaçao de um serviço de streaming. Usando JavaScript, e acessadno elementos do HTML pela DOM, foi possivel fazer a Requisição da Api e dos Endpoints necessários. Esse desafio contava com alguns requisitos obrigatórios, sendo eles: Visualização de filmes, Paginação de filmes (Tornar os botões de de Next e Prev funcionais), Busca de filmes (Tornar o input de buscar funcional), Filme do dia (Dados requisitados do endpoint respónsavel) e Modal de filme (Modal exibido ao clicar na capa do filme).
+      </p>
   </div>
   
 </div>
